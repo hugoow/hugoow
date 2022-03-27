@@ -1,5 +1,4 @@
 ## Mais Sobre Hugoow
-##
 - 🌱 Atualmente estou aprendendo: Js
 - 🤔 Estou procurando ajuda com: Python
 - 💬 Pergunte-me sobre: Games
