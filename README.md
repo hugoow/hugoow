@@ -3,7 +3,7 @@
 Mais Sobre Hugoow
 ##
 - 🌱 Atualmente estou aprendendo: Js
-- 🤔 Estou procurando ajuda com...
+- 🤔 Estou procurando ajuda com: Python
 - 💬 Pergunte-me sobre: Games
 - ⚡ Curiosidade: Nerdola De Pc Desde os 5 Anos
 ##
