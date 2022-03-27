@@ -1,3 +1,5 @@
+<link href="https://raw.githubusercontent.com/hugoow/hugoow/main/style.css" rel="stylesheet">
+
 Mais Sobre Hugoow
 ##
 - 🌱 Atualmente estou aprendendo: Js
@@ -7,5 +9,5 @@ Mais Sobre Hugoow
 ##
 Linguagens
 ##
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+<img class="linguagens" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
               
