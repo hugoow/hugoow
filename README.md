@@ -9,5 +9,5 @@ Mais Sobre Hugoow
 ##
 Linguagens
 ##
-<img max-width: 100px class="linguagens" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+<img class="linguagens" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30px" width:"40px";>
               
