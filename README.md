@@ -1,16 +1,16 @@
-### Hi there 👋
+Mais Sobre Hugoow
+##
+- 🌱 Atualmente estou aprendendo: Js
+- 🤔 Estou procurando ajuda com...
+- 💬 Pergunte-me sobre: Games
+- ⚡ Curiosidade: Nerdola De Pc Desde os 5 Anos
+##
+Linguagens
+##
+<i class="devicon-css3-plain"></i>
+          
 
-<!--
-**hugoow/hugoow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
