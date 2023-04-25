@@ -14,12 +14,15 @@ Linguagens
   <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
 </div>
+
 ##
 Uso:
 <div style="display: inline_block">
 <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg">
 <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/raw/master/icons/windows8/windows8-original.svg">
 </div>
+
+##
 
 <div align="center">
   <a href="https://github.com/hugoow">
