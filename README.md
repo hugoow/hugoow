@@ -19,7 +19,6 @@ Uso:
 <img height="40" width="50" src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg">
 <img height="40" width="50" src="https://github.com/devicons/devicon/raw/master/icons/windows8/windows8-original.svg">
 
-Status
 <div align="center">
   <a href="https://github.com/hugoow">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugoow&show_icons=true&theme=dark&include_all_commits=true&count_private=true&text_color=#fff&icon_color=#d6006e"/>
