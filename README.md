@@ -12,7 +12,7 @@ Linguagens
   <img align="center" alt="LUA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
   <img align="center" alt="NPM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
 </div>
 
 ##
@@ -24,8 +24,15 @@ Uso:
 
 ##
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hugoow&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hugoow&theme=great-gatsby&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hugoow&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <div align="center">
   <a href="https://github.com/hugoow">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugoow&show_icons=true&theme=dark&include_all_commits=true&count_private=true&text_color=#fff&icon_color=#d6006e"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoow&layout=compact&langs_count=7&theme=dark&text_color=#fff&icon_color=#d6006e"/>
 </div>
+  
+<img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_down.svg">
