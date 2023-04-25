@@ -16,8 +16,10 @@ Linguagens
 </div>
 ##
 Uso:
-<img height="40" width="50" src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg">
-<img height="40" width="50" src="https://github.com/devicons/devicon/raw/master/icons/windows8/windows8-original.svg">
+<div style="display: inline_block">
+<img align="center" height="40" width="50" src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg">
+<img align="center" height="40" width="50" src="https://github.com/devicons/devicon/raw/master/icons/windows8/windows8-original.svg">
+</div>
 
 <div align="center">
   <a href="https://github.com/hugoow">
