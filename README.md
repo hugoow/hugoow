@@ -1,8 +1,3 @@
-## Mais Sobre Hugoow
-- 🌱 Atualmente estou aprendendo: Python
-- 🤔 Estou procurando ajuda com: Node.js(Web)
-- 💬 Pergunte-me sobre: Games
-- ⚡ Curiosidade: Nerdola De Pc Desde os 5 Anos
 ## Languages and Tools
 <div style="display: inline_block">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
