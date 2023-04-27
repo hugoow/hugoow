@@ -11,18 +11,19 @@ var do = "design and development"
 ```
 
 
-<h2 align="center">Ability </h2>
+<h2 align="center">🤹 Ability </h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,nodejs,bots,vscode,python,css,html,php,bootstrap,lua" />
   </a>
 </p>
 
+#
 <div align="center">
 <img width="1000" src="https://cdn.discordapp.com/attachments/1015465042075979786/1100951239379931246/4F4AB173-3269-4D94-A5EC-499C5608A128.gif">
 <div>
 
-# 📊 GitHub Stats:
+<h2 align="center">📊 Stats </h2>
 ![](https://github-readme-stats.vercel.app/api?username=hugoow&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hugoow&theme=great-gatsby&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hugoow&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
