@@ -1,7 +1,7 @@
 <h2 align="center">Ability </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,bots,vscode,python,css,html,bootstrap,lua" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,bots,vscode,python,css,html,php,bootstrap,lua" />
   </a>
 </p>
 
