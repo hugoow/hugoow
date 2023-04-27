@@ -1,8 +1,14 @@
 <h2 align="center"><img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> <!--Group -  <a href="https://t.me/onlpx">t.me/onlpx</a>--></h2>
 
+```js
 
-<center><img src="https://readme-typing-svg.herokuapp.com?color=%bd00ff&center=true&vCenter=true&width=600&lines=hello+there+👋;+welcome+to+my+profile!;over+4+years+of+programming;just+a+curious;dev+and+designer;">
-</center>
+var message = "hello!";
+var message2 = "welcome to my profile!";
+time = "over 4 years of programming"
+just = "a curious"
+do = "design and development"
+
+```
 
 
 <h2 align="center">Ability </h2>
