@@ -1,6 +1,12 @@
 <h2 align="center"><img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> <!--Group -  <a href="https://t.me/onlpx">t.me/onlpx</a>--></h2>
 
+
+<div style="display: inline_block">
+  <div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%bd00ff&center=true&vCenter=true&width=600&lines=Hello+there+👋;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;just+a+curious;dev+and+designer)](https://git.io/typing-svg)
+    <div>
+</div>
+
 
 <h2 align="center">Ability </h2>
 <p align="center">
@@ -8,6 +14,7 @@
     <img src="https://skillicons.dev/icons?i=js,nodejs,bots,vscode,python,css,html,php,bootstrap,lua" />
   </a>
 </p>
+
 
 # Softwares:
 <div style="display: inline_block">
