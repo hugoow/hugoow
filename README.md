@@ -1,9 +1,8 @@
 <h2 align="center"><img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> <!--Group -  <a href="https://t.me/onlpx">t.me/onlpx</a>--></h2>
 
 
-<div style="display: inline_block">
-<img src="https://readme-typing-svg.herokuapp.com?color=%bd00ff&center=true&vCenter=true&width=600&lines=Hello+there+👋;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;just+a+curious;dev+and+designer">
-</div>
+<center><img src="https://readme-typing-svg.herokuapp.com?color=%bd00ff&center=true&vCenter=true&width=600&lines=Hello+there+👋;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;just+a+curious;dev+and+designer">
+</center>
 
 
 <h2 align="center">Ability </h2>
