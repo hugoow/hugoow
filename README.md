@@ -19,7 +19,7 @@ var do = "design and development"
 </p>
 
 
-<img src="https://tenor.com/pt-BR/view/mano-brown-racionais-mcs-vida-loka-gif-10679631">
+<img src="https://media.tenor.com/YvPp0Y2yf0EAAAAC/mano-brown-racionais-mcs.gif">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hugoow&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
