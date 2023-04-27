@@ -1,5 +1,5 @@
 <h2 align="center"><img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> <!--Group -  <a href="https://t.me/onlpx">t.me/onlpx</a>--></h2>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;just+a+curious;dev and designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;just+a+curious;dev+and+designer)](https://git.io/typing-svg)
 
 <h2 align="center">Ability </h2>
 <p align="center">
