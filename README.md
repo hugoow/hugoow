@@ -4,9 +4,9 @@
 
 var message = "hello!";
 var message2 = "welcome to my profile!";
-time = "over 4 years of programming"
-just = "a curious"
-do = "design and development"
+var time = "over 4 years of programming"
+var just = "a curious"
+var do = "design and development"
 
 ```
 
