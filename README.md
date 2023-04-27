@@ -2,9 +2,7 @@
 
 
 <div style="display: inline_block">
-  <div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%bd00ff&center=true&vCenter=true&width=600&lines=Hello+there+👋;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;just+a+curious;dev+and+designer)](https://git.io/typing-svg)
-    <div>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%bd00ff&center=true&vCenter=true&width=600&lines=Hello+there+👋;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;just+a+curious;dev+and+designer">
 </div>
 
 
