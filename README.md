@@ -19,6 +19,7 @@ var do = "design and development"
 </p>
 
 #
+
 <div align="center">
 <img width="1000" src="https://cdn.discordapp.com/attachments/1015465042075979786/1100951239379931246/4F4AB173-3269-4D94-A5EC-499C5608A128.gif">
 <div>
