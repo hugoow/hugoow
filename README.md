@@ -26,9 +26,9 @@ var do = "design and development"
 
   
 <h2 align="center">📊 Stats </h2>
-![](https://github-readme-stats.vercel.app/api?username=hugoow&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hugoow&theme=great-gatsby&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hugoow&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=hugoow&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hugoow&theme=great-gatsby&hide_border=false)">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoow&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 
   
 <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_down.svg">
